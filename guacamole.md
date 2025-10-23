@@ -12,7 +12,7 @@
 * blender
 
 ## Instructions
-- Peel avocado, remove the seed and chop into smaller pieces.
-- Add the pieces into a blender.
-- Blend until the consistency of a guacamole becomes creamy.
+1. Peel avocado, remove the seed and chop into smaller pieces.
+2. Add the pieces into a blender.
+3. Blend until the consistency of a guacamole becomes creamy.
 
