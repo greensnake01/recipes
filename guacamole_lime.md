@@ -1,7 +1,6 @@
 
 # Guacamole
 is a great recipe!
-is it tho?
 
 ## Ingredients
 * 1 avocado (1.3 €)
@@ -12,10 +11,3 @@ is it tho?
 
 - equipment
 * blender
-
-## Instructions
-1. Peel avocado, remove the seed and chop into smaller pieces.
-2. Add the pieces into a blender.
-3. Add remaining ingredients.
-4. Blend until the consistency of a guacamole becomes creamy.
-
