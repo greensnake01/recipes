@@ -1,5 +1,6 @@
 
 # Guacamole
+is a great recipe!
 
 ## Ingredients
 * 1 avocado (1.3 €)
